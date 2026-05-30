@@ -2,5 +2,5 @@
 
 **`*`** I'm currently involved in a small research group working with real cases involving geolocation for a geoguessr GOAT.
 
-**`*`** Playing CTFs with L3ak
+**`*`** Playing CTFs with L3ak as well as being an **organizer and author** for [L3akCTF2026](https://ctftime.org/event/3061)
 
