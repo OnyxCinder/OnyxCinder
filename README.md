@@ -4,5 +4,5 @@
 
 **`*`** plays ctfs with L3ak
 
-**`*`** **organizer and author** for [L3akCTF2026](https://ctftime.org/event/3061)
+**`*`** **organizer and author** @ [L3akCTF2026](https://ctftime.org/event/3061)
 
