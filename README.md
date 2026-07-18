@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&pause=1000&color=903CDA&background=2CDA8E00&width=435&lines=researcher+and+ctf+player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&pause=1000&color=2cda8e&background=2CDA8E00&width=435&lines=researcher+and+ctf+player)](https://git.io/typing-svg)
 
 **`*`** plays ctfs with L3ak
 
